@@ -11,8 +11,7 @@ of revenue for each country compared to the previous year.**
 between 2013 and 2018, also the growth rate of revenue year over year. Below this chart, "Revenue and PY Sales" compares current year revenue to the previous year, which tells
 us how we perform against last year.**
 
-**I'm attaching both the PDF report and the PBIT file here, where there are numerous amazing interactive features, please try to play with it and see how charts correlate to 
-each other!**
+**I'm attaching the PDF report here. If you would like to check the dashboard, please let me know, and I will be happy to share it. There are numerous amazing interactive features!**
 
 Thank you!
 
